@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [![@razawat's Holopin board](https://holopin.io/api/user/board?user=razawat)](https://holopin.io/@razawat)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="shubham-mishra-746335139" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubham-mishra-746335139?trk=profile-badge">Shubham Mishra</a></div>
               
               
